@@ -3,7 +3,7 @@ import {createCMS} from 'alinea/next'
 import * as schema from './cms/schema'
 
 export const cms = createCMS({
-  // List out available types in your schema
+  // List available types in your schema
   schema,
 
   // Define the content structure of your CMS
@@ -15,6 +15,7 @@ export const cms = createCMS({
         pages: Config.root('Vetra', {
           contains: [schema.Page, schema.FormPage],
           children: {
+            // Seed the CMS with initial pages
             index: Config.page({
               type: schema.HomePage,
               fields: {title: 'Home'}
@@ -43,7 +44,7 @@ export const cms = createCMS({
   },
 
   // Enable the drafts workflow
-  //enableDrafts: true,
+  enableDrafts: true,
 
   baseUrl: {
     // Point to your local website
