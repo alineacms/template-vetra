@@ -1,0 +1,249 @@
+{
+  "_id": "2zg5D1E2F3G4H5I6J7K8L9M0N1O",
+  "_type": "BlogPost",
+  "_index": "a8",
+  "title": "Building Culture in Remote-First Organizations",
+  "date": "2024-12-20",
+  "author": {
+    "_id": "2zg5D2E3F4G5H6I7J8K9L0M1N2O",
+    "_type": "entry",
+    "_entry": "2zfxISiMDkHAgu135zhFvVG1WIi"
+  },
+  "category": {
+    "_id": "2zg5D3E4F5G6H7I8J9K0L1M2N3O",
+    "_type": "entry",
+    "_entry": "2zfycfjh4YQBO5Gm4QLj2WfvMgA"
+  },
+  "image": {
+    "_id": "2zg5D4E5F6G7H8I9J0K1L2M3N4O",
+    "_type": "image",
+    "_entry": "2zg4jYczVM8EpYqOFswKzxyRauS"
+  },
+  "intro": "How distributed teams are redefining workplace culture and creating meaningful connections across time zones and continents.",
+  "content": [
+    {
+      "_type": "heading",
+      "level": 1,
+      "content": [
+        {
+          "_type": "text",
+          "text": "Building Culture in Remote-First Organizations"
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "The shift to remote work has fundamentally changed how we think about organizational culture. No longer confined to physical spaces, culture must be intentionally designed and nurtured through digital interactions and shared experiences."
+        }
+      ]
+    },
+    {
+      "_type": "heading",
+      "level": 2,
+      "content": [
+        {
+          "_type": "text",
+          "text": "Intentional Communication"
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Remote culture starts with how teams communicate:"
+        }
+      ]
+    },
+    {
+      "_type": "bulletList",
+      "content": [
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Async-First",
+                  "marks": [
+                    {
+                      "_type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "_type": "text",
+                  "text": ": Default to asynchronous communication to respect time zones"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Transparency",
+                  "marks": [
+                    {
+                      "_type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "_type": "text",
+                  "text": ": Share context and decisions openly across the organization"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Documentation",
+                  "marks": [
+                    {
+                      "_type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "_type": "text",
+                  "text": ": Write things down to create institutional memory"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_type": "heading",
+      "level": 2,
+      "content": [
+        {
+          "_type": "text",
+          "text": "Virtual Connection Rituals"
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Creating meaningful connections without physical presence:"
+        }
+      ]
+    },
+    {
+      "_type": "bulletList",
+      "content": [
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Regular Check-ins",
+                  "marks": [
+                    {
+                      "_type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "_type": "text",
+                  "text": ": Structured time for personal and professional updates"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Virtual Coffee Chats",
+                  "marks": [
+                    {
+                      "_type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "_type": "text",
+                  "text": ": Informal conversations that build relationships"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Shared Experiences",
+                  "marks": [
+                    {
+                      "_type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "_type": "text",
+                  "text": ": Online events and activities that bring teams together"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Strong remote culture requires intentionality, empathy, and a commitment to human connection beyond just work tasks."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "",
+    "description": "",
+    "openGraph": {
+      "siteName": "",
+      "image": {},
+      "title": "",
+      "description": ""
+    }
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "_id": "2zg5A1B2C3D4E5F6G7H8I9J0K1L",
+  "_type": "BlogPost",
+  "_index": "a5",
+  "title": "Sustainable Design Practices for the Modern Web",
+  "date": "2025-01-15",
+  "author": {
+    "_id": "2zg5A2B3C4D5E6F7G8H9I0J1K2L",
+    "_type": "entry",
+    "_entry": "2zfxWJzXbbjQFasiQ9ROsEFDexP"
+  },
+  "category": {
+    "_id": "2zg5A3B4C5D6E7F8G9H0I1J2K3L",
+    "_type": "entry",
+    "_entry": "2zfyQyRBsxtqMWEV8J06Xhgzmnh"
+  },
+  "image": {
+    "_id": "2zg5A4B5C6D7E8F9G0H1I2J3K4L",
+    "_type": "image",
+    "_entry": "2zg4ldHEMwmpxvZ3QSRBx0xDncP"
+  },
+  "intro": "How designers can reduce environmental impact through thoughtful choices in digital product development and user experience design.",
+  "content": [
+    {
+      "_type": "heading",
+      "level": 1,
+      "content": [
+        {
+          "_type": "text",
+          "text": "Sustainable Design Practices for the Modern Web"
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "As digital products consume increasing amounts of energy and resources, designers have a responsibility to consider the environmental impact of their work. Sustainable design isn't just about aesthetics—it's about creating efficient, long-lasting digital experiences."
+        }
+      ]
+    },
+    {
+      "_type": "heading",
+      "level": 2,
+      "content": [
+        {
+          "_type": "text",
+          "text": "Performance as Sustainability"
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Faster websites consume less energy:"
+        }
+      ]
+    },
+    {
+      "_type": "bulletList",
+      "content": [
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Optimized Images",
+                  "marks": [
+                    {
+                      "_type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "_type": "text",
+                  "text": ": Use modern formats and appropriate compression"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Minimal JavaScript",
+                  "marks": [
+                    {
+                      "_type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "_type": "text",
+                  "text": ": Ship only what users need"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Efficient Caching",
+                  "marks": [
+                    {
+                      "_type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "_type": "text",
+                  "text": ": Reduce server requests and data transfer"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_type": "heading",
+      "level": 2,
+      "content": [
+        {
+          "_type": "text",
+          "text": "Design for Longevity"
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Creating designs that stand the test of time:"
+        }
+      ]
+    },
+    {
+      "_type": "bulletList",
+      "content": [
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Timeless Aesthetics",
+                  "marks": [
+                    {
+                      "_type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "_type": "text",
+                  "text": ": Avoid trendy elements that quickly become outdated"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Flexible Systems",
+                  "marks": [
+                    {
+                      "_type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "_type": "text",
+                  "text": ": Build components that can adapt to future needs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Progressive Enhancement",
+                  "marks": [
+                    {
+                      "_type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "_type": "text",
+                  "text": ": Ensure core functionality works everywhere"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Sustainable design is about making conscious choices that benefit both users and the planet."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "",
+    "description": "",
+    "openGraph": {
+      "siteName": "",
+      "image": {},
+      "title": "",
+      "description": ""
+    }
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "_id": "2zg5C1D2E3F4G5H6I7J8K9L0M1N",
+  "_type": "BlogPost",
+  "_index": "a7",
+  "title": "Digital Wellness: Setting Healthy Boundaries",
+  "date": "2025-01-05",
+  "author": {
+    "_id": "2zg5C2D3E4F5G6H7I8J9K0L1M2N",
+    "_type": "entry",
+    "_entry": "2zfy0I2c0n759TtbUZYOfXg4dm1"
+  },
+  "category": {
+    "_id": "2zg5C3D4E5F6G7H8I9J0K1M2N3O",
+    "_type": "entry",
+    "_entry": "2zfyexjZrmpmn4c1JVOB0cT3lmi"
+  },
+  "image": {
+    "_id": "2zg5C4D5E6F7G8H9I0J1K2L3M4N",
+    "_type": "image",
+    "_entry": "2zg4niH2wScyutOD6Yp6ukpyKNS"
+  },
+  "intro": "Practical strategies for maintaining mental health and well-being in our always-connected digital world.",
+  "content": [
+    {
+      "_type": "heading",
+      "level": 1,
+      "content": [
+        {
+          "_type": "text",
+          "text": "Digital Wellness: Setting Healthy Boundaries"
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Our relationship with technology profoundly impacts our mental health, productivity, and overall well-being. Learning to set healthy digital boundaries isn't about rejecting technology—it's about using it intentionally to enhance rather than diminish our lives."
+        }
+      ]
+    },
+    {
+      "_type": "heading",
+      "level": 2,
+      "content": [
+        {
+          "_type": "text",
+          "text": "Recognizing Digital Overwhelm"
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Signs that technology might be negatively impacting your well-being:"
+        }
+      ]
+    },
+    {
+      "_type": "bulletList",
+      "content": [
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Constant Connectivity",
+                  "marks": [
+                    {
+                      "_type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "_type": "text",
+                  "text": ": Feeling anxious when disconnected from devices"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Sleep Disruption",
+                  "marks": [
+                    {
+                      "_type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "_type": "text",
+                  "text": ": Screens affecting your sleep quality and schedule"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Attention Fragmentation",
+                  "marks": [
+                    {
+                      "_type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "_type": "text",
+                  "text": ": Difficulty focusing on single tasks"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_type": "heading",
+      "level": 2,
+      "content": [
+        {
+          "_type": "text",
+          "text": "Creating Digital Boundaries"
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Practical strategies for healthier technology use:"
+        }
+      ]
+    },
+    {
+      "_type": "bulletList",
+      "content": [
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Device-Free Zones",
+                  "marks": [
+                    {
+                      "_type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "_type": "text",
+                  "text": ": Designate spaces in your home for offline activities"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Notification Management",
+                  "marks": [
+                    {
+                      "_type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "_type": "text",
+                  "text": ": Turn off non-essential alerts and interruptions"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Scheduled Breaks",
+                  "marks": [
+                    {
+                      "_type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "_type": "text",
+                  "text": ": Regular periods of disconnection throughout the day"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Digital wellness is about creating a sustainable relationship with technology that supports your goals and values."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "",
+    "description": "",
+    "openGraph": {
+      "siteName": "",
+      "image": {},
+      "title": "",
+      "description": ""
+    }
+  }
+}
