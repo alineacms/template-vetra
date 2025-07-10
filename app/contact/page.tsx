@@ -10,7 +10,7 @@ export default async function ContactPage() {
 
   async function handleSubmit(formData: FormData) {
     'use server'
-    console.log(Object.fromEntries(Array.from(formData.entries())))
+    console.log(Object.fromEntries(formData.entries()))
   }
 
   return <Form form={form} action={handleSubmit} />
