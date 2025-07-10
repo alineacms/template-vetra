@@ -15,7 +15,7 @@ export default async function Home() {
     take: 3 * 4
   })
   return (
-    <div className="space-y-20">
+    <div className="space-y-12">
       {/* Featured Posts */}
       <section>
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-16">
