@@ -72,7 +72,7 @@ export default async function BlogPostPage({params}: BlogPostPageProps) {
   if (!post) notFound()
 
   return (
-    <article className="max-w-4xl mx-auto space-y-8">
+    <article className="max-w-5xl mx-auto space-y-8">
       <header className="space-y-4">
         {post.category && <CategoryBadge category={post.category} />}
 

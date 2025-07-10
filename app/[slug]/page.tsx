@@ -19,7 +19,7 @@ export default async function GenericPage({params}: GenericPageProps) {
   const {slug} = await params
   const page = await cms.get({type: Page, path: slug})
   return (
-    <div className="max-w-4xl mx-auto space-y-8">
+    <div className="max-w-5xl mx-auto space-y-8">
       <section className="text-center space-y-4">
         <h1 className="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white">
           {page.title}

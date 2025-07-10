@@ -9,7 +9,7 @@ interface FormProps {
 
 export async function Form({action, form}: FormProps) {
   return (
-    <div className="max-w-4xl mx-auto space-y-8">
+    <div className="max-w-5xl mx-auto space-y-8">
       <section className="text-center space-y-4">
         <h1 className="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white">
           {form.title}

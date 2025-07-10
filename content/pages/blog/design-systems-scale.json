@@ -1,7 +1,7 @@
 {
   "_id": "2zg6D1E2F3G4H5I6J7K8L9M0N1O",
   "_type": "BlogPost",
-  "_index": "a13",
+  "_index": "a5",
   "title": "Building Design Systems That Scale",
   "date": "2024-06-10",
   "author": {
@@ -15,9 +15,9 @@
     "_entry": "2zfyQyRBsxtqMWEV8J06Xhgzmnh"
   },
   "image": {
-    "_id": "2zg6D4E5F6G7H8I9J0K1L2M3N4O",
+    "_id": "2zgVhMz57nzKFupdgSEC3vWaAgl",
     "_type": "image",
-    "_entry": "2zg4ldHEMwmpxvZ3QSRBx0xDncP"
+    "_entry": "2zgVYzME4JQYoJIxBwNlW3yAXB7"
   },
   "intro": "Creating cohesive, maintainable design systems that grow with your organization while ensuring consistency across all touchpoints.",
   "content": [

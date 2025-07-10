@@ -1,14 +1,14 @@
-import Link from 'next/link';
-import { Metadata } from 'next';
+import type {Metadata} from 'next'
+import Link from 'next/link'
 
 export const metadata: Metadata = {
   title: 'Page Not Found - Vetra',
-  description: 'The page you are looking for does not exist.',
-};
+  description: 'The page you are looking for does not exist.'
+}
 
 export default function NotFound() {
   return (
-    <div className="max-w-4xl mx-auto text-center space-y-8 py-16">
+    <div className="max-w-5xl mx-auto text-center space-y-8 py-16">
       <div className="space-y-4">
         <h1 className="text-6xl font-bold text-gray-900 dark:text-white">
           404
@@ -17,27 +17,28 @@ export default function NotFound() {
           Page Not Found
         </h2>
         <p className="text-lg text-gray-600 dark:text-gray-400 max-w-md mx-auto">
-          The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.
+          The page you are looking for might have been removed, had its name
+          changed, or is temporarily unavailable.
         </p>
       </div>
-      
+
       <div className="space-y-4">
-        <Link 
+        <Link
           href="/"
           className="inline-block bg-gray-900 dark:bg-white text-white dark:text-gray-900 py-3 px-6 rounded-lg font-medium hover:bg-gray-800 dark:hover:bg-gray-100 transition-colors"
         >
           Go Back Home
         </Link>
-        
+
         <div className="flex justify-center space-x-4 text-sm">
-          <Link 
+          <Link
             href="/archive"
             className="text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white transition-colors"
           >
             Browse Archive
           </Link>
           <span className="text-gray-400">•</span>
-          <Link 
+          <Link
             href="/contact"
             className="text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white transition-colors"
           >
@@ -46,5 +47,5 @@ export default function NotFound() {
         </div>
       </div>
     </div>
-  );
+  )
 }

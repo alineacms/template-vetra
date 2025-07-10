@@ -36,7 +36,7 @@ export function PostCard({post, featured = false}: PostCardProps) {
       {image && (
         <Link href={url}>
           <div
-            className={`relative ${featured ? 'h-80 md:h-96' : 'h-64 md:h-80'} overflow-hidden rounded-lg mb-4`}
+            className={`relative ${featured ? 'h-64 md:h-64' : 'h-64 md:h-64'} overflow-hidden rounded-lg mb-4`}
           >
             <Image
               src={image.src}
