@@ -1,3 +1,4 @@
 {
+  "template": "nextjs-shadcn",
   "startCommand": "npm run dev"
 }
