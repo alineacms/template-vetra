@@ -1,3 +1,4 @@
+import {imageBlurUrl} from 'alinea/ui'
 import type {Metadata} from 'next'
 import Image from 'next/image'
 import Link from 'next/link'
@@ -39,6 +40,8 @@ export default async function AuthorsPage() {
                 {author.avatar && (
                   <Image
                     src={author.avatar.src}
+                    placeholder="blur"
+                    blurDataURL={imageBlurUrl(author.avatar)}
                     alt={author.title}
                     width={80}
                     height={80}

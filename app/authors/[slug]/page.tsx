@@ -1,4 +1,4 @@
-import {RichText} from 'alinea/ui'
+import {imageBlurUrl, RichText} from 'alinea/ui'
 import type {Metadata} from 'next'
 import Image from 'next/image'
 import {notFound} from 'next/navigation'
@@ -46,6 +46,7 @@ export default async function AuthorPage({params}: AuthorPageProps) {
         {author.avatar && (
           <Image
             src={author.avatar.src}
+            blurDataURL={imageBlurUrl(author.avatar)}
             alt={author.title}
             width={120}
             height={120}

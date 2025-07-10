@@ -9,15 +9,17 @@ export const metadata: Metadata = {
   description: 'Browse all blog posts chronologically.'
 }
 
-export default async function BlogListPage({
-  searchParams
-}: {
-  searchParams: Promise<{page: string | undefined}>
-}) {
-  const params = await searchParams
+interface BlogListProps {
+  params: Promise<{
+    page: string
+  }>
+}
+
+export default async function BlogListPage({params}: BlogListProps) {
+  const {page: pageNumber} = await params
   const page = await cms.get({type: BlogList})
   const perPage = 3 * 4
-  const currentPage = Number(params.page) || 0
+  const currentPage = Number(pageNumber) || 0
   const posts = await cms.find({
     type: BlogPost,
     select: postCardData,
@@ -58,7 +60,9 @@ export default async function BlogListPage({
       {totalPages > 1 && (
         <div className="flex justify-center gap-2 pt-8">
           <a
-            href={`?page=${currentPage - 1}`}
+            href={
+              currentPage === 1 ? '/blog' : `/blog/archive/${currentPage - 1}`
+            }
             className={`px-4 py-2 rounded bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-200${currentPage === 0 ? ' opacity-50 pointer-events-none' : ''}`}
             aria-disabled={currentPage === 0}
             tabIndex={currentPage === 0 ? -1 : 0}
@@ -69,7 +73,7 @@ export default async function BlogListPage({
             Page {currentPage + 1} of {totalPages}
           </span>
           <a
-            href={`?page=${currentPage + 1}`}
+            href={`/blog/archive/${currentPage + 1}`}
             className={`px-4 py-2 rounded bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-200${currentPage >= totalPages - 1 ? ' opacity-50 pointer-events-none' : ''}`}
             aria-disabled={currentPage >= totalPages - 1}
             tabIndex={currentPage >= totalPages - 1 ? -1 : 0}

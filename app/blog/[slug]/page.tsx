@@ -1,4 +1,4 @@
-import {RichText} from 'alinea/ui'
+import {imageBlurUrl, RichText} from 'alinea/ui'
 import type {Metadata} from 'next'
 import Image from 'next/image'
 import Link from 'next/link'
@@ -73,19 +73,19 @@ export default async function BlogPostPage({params}: BlogPostPageProps) {
 
   return (
     <article className="max-w-5xl mx-auto space-y-8">
-      <header className="space-y-4">
+      <header className="space-y-4 text-center">
         {post.category && <CategoryBadge category={post.category} />}
 
-        <h1 className="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white leading-tight">
+        <h1 className="text-4xl font-bold text-gray-900 dark:text-white leading-tight">
           {post.title}
         </h1>
 
-        <p className="text-xl text-gray-600 dark:text-gray-300 leading-relaxed">
+        <p className="text-xl text-gray-600 dark:text-gray-300 leading-relaxed max-w-2xl mx-auto">
           {post.intro}
         </p>
 
         {post.author && (
-          <div className="flex items-center space-x-3 pt-4">
+          <div className="inline-flex items-center space-x-3 pt-4 m-auto">
             <Image
               src={post.author.avatar}
               alt={post.author.name}
@@ -115,6 +115,8 @@ export default async function BlogPostPage({params}: BlogPostPageProps) {
         <div className="relative h-64 md:h-96 overflow-hidden rounded-lg">
           <Image
             src={post.image}
+            placeholder="blur"
+            blurDataURL={imageBlurUrl(post.image)}
             alt={post.title}
             fill
             className="object-cover"
@@ -128,14 +130,12 @@ export default async function BlogPostPage({params}: BlogPostPageProps) {
         <RichText
           doc={post.content}
           h1={
-            <h1 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white" />
+            <h1 className="text-3xl font-bold text-gray-900 dark:text-white" />
           }
           h2={
-            <h2 className="text-2xl md:text-3xl font-semibold text-gray-900 dark:text-white" />
+            <h2 className="text-2xl font-bold text-gray-900 dark:text-white" />
           }
-          p={
-            <p className="text-lg text-gray-700 dark:text-gray-300 max-w-2xl" />
-          }
+          p={<p className="text-gray-700 dark:text-gray-300 max-w-2xl" />}
           ul={<ul className="list-disc px-5" />}
           li={<li className="text-gray-700 dark:text-gray-300 py-1" />}
         />

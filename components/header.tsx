@@ -13,7 +13,7 @@ export function Header() {
   }
 
   return (
-    <header className="bg-white/80 dark:bg-gray-950/80 backdrop-blur-md py-8">
+    <header className="bg-white/80 dark:bg-gray-950/80 backdrop-blur-md md:py-8">
       <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <Link

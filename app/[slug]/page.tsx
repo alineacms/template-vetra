@@ -8,6 +8,7 @@ interface GenericPageProps {
   }>
 }
 
+export const dynamicParams = false
 export async function generateStaticParams() {
   const pages = await cms.find({type: Page})
   return pages.map(page => ({
@@ -38,9 +39,7 @@ export default async function GenericPage({params}: GenericPageProps) {
           h2={
             <h2 className="text-2xl md:text-3xl font-semibold text-gray-900 dark:text-white" />
           }
-          p={
-            <p className="text-lg text-gray-700 dark:text-gray-300 max-w-2xl" />
-          }
+          p={<p className="text-gray-700 dark:text-gray-300 max-w-2xl" />}
           ul={<ul className="list-disc px-5" />}
           li={<li className="text-gray-700 dark:text-gray-300 py-1" />}
         />

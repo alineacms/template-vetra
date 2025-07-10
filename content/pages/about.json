@@ -29,12 +29,7 @@
       "content": [
         {
           "_type": "text",
-          "text": "Our Design Philosophy",
-          "marks": [
-            {
-              "_type": "bold"
-            }
-          ]
+          "text": "Our Design Philosophy"
         }
       ]
     },
@@ -137,12 +132,7 @@
       "content": [
         {
           "_type": "text",
-          "text": "Built for Creators",
-          "marks": [
-            {
-              "_type": "bold"
-            }
-          ]
+          "text": "Built for Creators"
         }
       ]
     },

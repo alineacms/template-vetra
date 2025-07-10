@@ -1,4 +1,5 @@
 import {type Infer, Query} from 'alinea'
+import {imageBlurUrl} from 'alinea/ui'
 import Image from 'next/image'
 import Link from 'next/link'
 import {Author, BlogPost, Category} from '@/cms/schema'
@@ -40,6 +41,8 @@ export function PostCard({post, featured = false}: PostCardProps) {
           >
             <Image
               src={image.src}
+              placeholder="blur"
+              blurDataURL={imageBlurUrl(image)}
               alt={title}
               fill
               className="object-cover group-hover:scale-105 transition-transform duration-300"
@@ -58,7 +61,7 @@ export function PostCard({post, featured = false}: PostCardProps) {
 
         <Link href={url}>
           <h2
-            className={`${featured ? 'text-2xl md:text-3xl' : 'text-xl'} font-semibold text-gray-900 dark:text-white group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors duration-300`}
+            className={`text-xl font-bold text-gray-900 dark:text-white group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors duration-300`}
           >
             {title}
           </h2>

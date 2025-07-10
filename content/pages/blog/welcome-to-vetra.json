@@ -46,12 +46,7 @@
       "content": [
         {
           "_type": "text",
-          "text": "Features",
-          "marks": [
-            {
-              "_type": "bold"
-            }
-          ]
+          "text": "Features"
         }
       ]
     },
@@ -158,12 +153,7 @@
       "content": [
         {
           "_type": "text",
-          "text": "Getting Started",
-          "marks": [
-            {
-              "_type": "bold"
-            }
-          ]
+          "text": "Getting Started"
         }
       ]
     },
