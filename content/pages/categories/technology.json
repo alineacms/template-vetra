@@ -1,0 +1,21 @@
+{
+  "_id": "2zfya80aDdzAAPyNfP7uJc1fmfd",
+  "_type": "Category",
+  "_index": "a1",
+  "title": "Technology",
+  "description": "Stay updated on emerging technologies and their impact on how we live, work, and connect.",
+  "theme": {
+    "colorLight": "#27AE60",
+    "colorDark": "#A9DFBF"
+  },
+  "metadata": {
+    "title": "",
+    "description": "",
+    "openGraph": {
+      "siteName": "",
+      "image": {},
+      "title": "",
+      "description": ""
+    }
+  }
+}

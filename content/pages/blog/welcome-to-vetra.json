@@ -1,0 +1,199 @@
+{
+  "_id": "2zg2QDwSvDyQN7GMd3QpseLuQEJ",
+  "_type": "BlogPost",
+  "_index": "a4",
+  "title": "Welcome to Vetra",
+  "date": "2024-01-01",
+  "author": {
+    "_id": "2zg2Qi6hohLwAeKhFM6PlKg8TY1",
+    "_type": "entry",
+    "_entry": "2zfy4Z7zc0iWS0tpytFQhNtc4Sm"
+  },
+  "category": {
+    "_id": "2zg2R96v9VHM44dqgwMxVbIzdy3",
+    "_type": "entry",
+    "_entry": "2zfydrukjWsMSVgvXxJS74hfem4"
+  },
+  "image": {
+    "_id": "2zg4pWvNN0QXbG5rhbWXHWlaKBu",
+    "_type": "image",
+    "_entry": "2zg4pTV8B5eMSyVGER40jeqtRtu"
+  },
+  "intro": "Discover a new way to share your thoughts with the world through clean, minimalist design and thoughtful content organization.",
+  "content": [
+    {
+      "_type": "heading",
+      "level": 1,
+      "content": [
+        {
+          "_type": "text",
+          "text": "Welcome to Vetra"
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Welcome to Vetra, a minimalist blog template designed for those who appreciate clean aesthetics and thoughtful content presentation. This template combines the power of Next.js with a carefully crafted design system that puts your content first."
+        }
+      ]
+    },
+    {
+      "_type": "heading",
+      "level": 2,
+      "content": [
+        {
+          "_type": "text",
+          "text": "Features",
+          "marks": [
+            {
+              "_type": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_type": "bulletList",
+      "content": [
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Clean Design",
+                  "marks": [
+                    {
+                      "_type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "_type": "text",
+                  "text": ": Every element is purposefully placed with generous white space"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Category System",
+                  "marks": [
+                    {
+                      "_type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "_type": "text",
+                  "text": ": Organize your posts with beautiful, color-coded categories"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Responsive Layout",
+                  "marks": [
+                    {
+                      "_type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "_type": "text",
+                  "text": ": Perfect reading experience across all devices"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Dark Mode",
+                  "marks": [
+                    {
+                      "_type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "_type": "text",
+                  "text": ": Toggle between light and dark themes seamlessly"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_type": "heading",
+      "level": 2,
+      "content": [
+        {
+          "_type": "text",
+          "text": "Getting Started",
+          "marks": [
+            {
+              "_type": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Start writing your first post and watch how Vetra transforms your words into a beautiful reading experience. The template handles all the technical details so you can focus on what matters most - your content."
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Whether you're sharing lifestyle tips, design insights, or big ideas, Vetra provides the perfect canvas for your thoughts."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "",
+    "description": "",
+    "openGraph": {
+      "siteName": "",
+      "image": {},
+      "title": "",
+      "description": ""
+    }
+  }
+}

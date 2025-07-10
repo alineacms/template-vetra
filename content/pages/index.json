@@ -1,0 +1,30 @@
+{
+  "_id": "2zfwr188QFBfznZBIreEGWTe1QV",
+  "_type": "HomePage",
+  "_index": "a1",
+  "title": "Home",
+  "featured": [
+    {
+      "_id": "2zg4cUDsxOS0fLXD2KUyJZnLQvK",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "2zg2QDwSvDyQN7GMd3QpseLuQEJ"
+    },
+    {
+      "_id": "2zg4cWoMULVvcJUqoM4AChhgXmg",
+      "_index": "a1",
+      "_type": "entry",
+      "_entry": "2zg2GgSmsEv2gETLKaRjcIHxHJ4"
+    }
+  ],
+  "metadata": {
+    "title": "",
+    "description": "",
+    "openGraph": {
+      "siteName": "",
+      "image": {},
+      "title": "",
+      "description": ""
+    }
+  }
+}

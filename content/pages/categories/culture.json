@@ -1,0 +1,21 @@
+{
+  "_id": "2zfycfjh4YQBO5Gm4QLj2WfvMgA",
+  "_type": "Category",
+  "_index": "a2",
+  "title": "Culture",
+  "description": "Examine the cultural shifts and social dynamics that define our interconnected global society.",
+  "theme": {
+    "colorLight": "#8E44AD",
+    "colorDark": "#D7BDE2"
+  },
+  "metadata": {
+    "title": "",
+    "description": "",
+    "openGraph": {
+      "siteName": "",
+      "image": {},
+      "title": "",
+      "description": ""
+    }
+  }
+}

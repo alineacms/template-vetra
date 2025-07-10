@@ -1,0 +1,28 @@
+{
+  "_id": "2zfx2cni5Bu29iFl63OAUpzNg41",
+  "_type": "BlogList",
+  "_index": "a2",
+  "_seeded": "/blog.json",
+  "title": "Blog",
+  "intro": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Browse all blog posts chronologically"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "",
+    "description": "",
+    "openGraph": {
+      "siteName": "",
+      "image": {},
+      "title": "",
+      "description": ""
+    }
+  }
+}

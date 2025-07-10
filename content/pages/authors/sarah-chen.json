@@ -1,0 +1,32 @@
+{
+  "_id": "2zfy4Z7zc0iWS0tpytFQhNtc4Sm",
+  "_type": "Author",
+  "_index": "a3",
+  "title": "Sarah Chen",
+  "avatar": {
+    "_id": "2zfy7HsnF6xUc6SQiPCdxBWXm3Y",
+    "_type": "image",
+    "_entry": "2zfy7DZ1gpICcq6WgvNe4t3c2Y4"
+  },
+  "bio": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Sarah is a UX designer and writer passionate about creating meaningful digital experiences. She believes in the power of thoughtful design to solve complex problems and improve people's lives."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "",
+    "description": "",
+    "openGraph": {
+      "siteName": "",
+      "image": {},
+      "title": "",
+      "description": ""
+    }
+  }
+}

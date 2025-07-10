@@ -1,0 +1,32 @@
+{
+  "_id": "2zfxISiMDkHAgu135zhFvVG1WIi",
+  "_type": "Author",
+  "_index": "a0",
+  "title": "David Park",
+  "avatar": {
+    "_id": "2zfxUZWCdLUQ7KF15HF5YCClS59",
+    "_type": "image",
+    "_entry": "2zfxUPyDgw6mbcohvPDixtTtz0J"
+  },
+  "bio": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "David is a cultural anthropologist and digital sociologist studying how technology shapes human behavior and social structures."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "",
+    "description": "",
+    "openGraph": {
+      "siteName": "",
+      "image": {},
+      "title": "",
+      "description": ""
+    }
+  }
+}

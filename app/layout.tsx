@@ -1,41 +1,41 @@
-import './globals.css';
-import type { Metadata } from 'next';
-import { Inter } from '@next/font/google';
-import { ThemeProvider } from '@/components/providers/theme-provider';
-import { Header } from '@/components/header';
-import { Footer } from '@/components/footer';
+import './globals.css'
+import type {Metadata} from 'next'
+import {Inter} from 'next/font/google'
+import {cms} from '@/cms'
+import {Footer} from '@/components/footer'
+import {Header} from '@/components/header'
+import {ThemeProvider} from '@/components/providers/theme-provider'
 
-const inter = Inter({ 
+const inter = Inter({
   subsets: ['latin'],
   display: 'swap',
   variable: '--font-inter'
-});
+})
 
 export const metadata: Metadata = {
   title: 'Vetra - Minimalist Blog',
-  description: 'A clean, minimal blog template for sharing your thoughts and ideas.',
+  description:
+    'A clean, minimal blog template for sharing your thoughts and ideas.',
   keywords: ['blog', 'minimalist', 'design', 'technology', 'lifestyle'],
-  authors: [{ name: 'Vetra' }],
+  authors: [{name: 'Vetra'}],
   creator: 'Vetra',
   metadataBase: new URL('https://vetra-blog.com'),
   openGraph: {
     title: 'Vetra - Minimalist Blog',
-    description: 'A clean, minimal blog template for sharing your thoughts and ideas.',
+    description:
+      'A clean, minimal blog template for sharing your thoughts and ideas.',
     type: 'website',
-    locale: 'en_US',
+    locale: 'en_US'
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Vetra - Minimalist Blog',
-    description: 'A clean, minimal blog template for sharing your thoughts and ideas.',
-  },
-};
+    description:
+      'A clean, minimal blog template for sharing your thoughts and ideas.'
+  }
+}
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
+export default function RootLayout({children}: {children: React.ReactNode}) {
   return (
     <html lang="en" suppressHydrationWarning>
       <body className={`${inter.variable} font-sans`}>
@@ -53,7 +53,8 @@ export default function RootLayout({
             <Footer />
           </div>
         </ThemeProvider>
+        <cms.previews widget />
       </body>
     </html>
-  );
+  )
 }

@@ -1,0 +1,32 @@
+{
+  "_id": "2zfy0I2c0n759TtbUZYOfXg4dm1",
+  "_type": "Author",
+  "_index": "a1",
+  "title": "Emma Thompson",
+  "avatar": {
+    "_id": "2zfy3dSRhgsRX7jupwzAs4NJgcT",
+    "_type": "image",
+    "_entry": "2zfy3dCA0wfywBiz2bvjSPbKoS3"
+  },
+  "bio": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Emma is a mindfulness coach and lifestyle writer who helps people find balance in our digital age. She combines ancient wisdom with modern insights."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "",
+    "description": "",
+    "openGraph": {
+      "siteName": "",
+      "image": {},
+      "title": "",
+      "description": ""
+    }
+  }
+}

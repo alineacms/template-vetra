@@ -1,0 +1,32 @@
+{
+  "_id": "2zfxWJzXbbjQFasiQ9ROsEFDexP",
+  "_type": "Author",
+  "_index": "ZzV",
+  "title": "Alex Rivera",
+  "avatar": {
+    "_id": "2zfxre5plTykp26PEuUE87IefjF",
+    "_type": "image",
+    "_entry": "2zfxrVxEfHTvF4ZM4BfEp1XDjsQ"
+  },
+  "bio": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Alex is a design systems architect with over 8 years of experience building scalable design solutions. He loves exploring the intersection of design and technology."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "",
+    "description": "",
+    "openGraph": {
+      "siteName": "",
+      "image": {},
+      "title": "",
+      "description": ""
+    }
+  }
+}

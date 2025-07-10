@@ -1,0 +1,21 @@
+{
+  "_id": "2zfyQyRBsxtqMWEV8J06Xhgzmnh",
+  "_type": "Category",
+  "_index": "a0",
+  "title": "Design",
+  "description": "Explore the principles, trends, and practices that shape beautiful and functional digital experiences.",
+  "theme": {
+    "colorLight": "#3498DB",
+    "colorDark": "#85C1E9"
+  },
+  "metadata": {
+    "title": "",
+    "description": "",
+    "openGraph": {
+      "siteName": "",
+      "image": {},
+      "title": "",
+      "description": ""
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "_id": "2zgHzBB95pzyBdk1pt8AyShCgDC",
+  "_type": "Page",
+  "_index": "a5",
+  "title": "About",
+  "intro": "Creating beautiful, minimal blog experiences for thoughtful content creators.",
+  "content": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Vetra was born from a simple belief: that great content deserves great presentation. In a world filled with cluttered designs and overwhelming interfaces, we wanted to create something different—a blog template that puts your words first."
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Our minimalist approach isn't about having less; it's about having exactly what you need. Every element in Vetra has been carefully considered to enhance readability, improve user experience, and create a space where ideas can breathe."
+        }
+      ]
+    },
+    {
+      "_type": "heading",
+      "level": 2,
+      "content": [
+        {
+          "_type": "text",
+          "text": "Our Design Philosophy",
+          "marks": [
+            {
+              "_type": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "We believe that good design is invisible. When readers visit your blog, they shouldn't be distracted by fancy animations or complex layouts. Instead, they should feel drawn into your content, able to focus completely on your ideas and insights."
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Vetra achieves this through:"
+        }
+      ]
+    },
+    {
+      "_type": "bulletList",
+      "content": [
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Generous white space that gives content room to breathe"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Carefully chosen typography that enhances readability"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "A cohesive color system that creates visual harmony"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Thoughtful categorization that helps readers discover related content"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "listItem",
+          "content": [
+            {
+              "_type": "paragraph",
+              "content": [
+                {
+                  "_type": "text",
+                  "text": "Responsive design that works beautifully on any device"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_type": "heading",
+      "level": 2,
+      "content": [
+        {
+          "_type": "text",
+          "text": "Built for Creators",
+          "marks": [
+            {
+              "_type": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Whether you're sharing design insights, technology trends, lifestyle tips, cultural observations, or big ideas, Vetra provides the perfect foundation for your content. The template is built with modern web technologies and follows best practices for performance, accessibility, and SEO."
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "We're constantly improving Vetra based on feedback from creators like you. If you have suggestions or encounter any issues, we'd love to hear from you."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "",
+    "description": "",
+    "openGraph": {
+      "siteName": "",
+      "image": {},
+      "title": "",
+      "description": ""
+    }
+  }
+}

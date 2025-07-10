@@ -1,0 +1,21 @@
+{
+  "_id": "2zfyexjZrmpmn4c1JVOB0cT3lmi",
+  "_type": "Category",
+  "_index": "a4",
+  "title": "Lifestyle",
+  "description": "Discover insights on mindful living, personal growth, and finding balance in our modern world.",
+  "theme": {
+    "colorLight": "#E67E22",
+    "colorDark": "#FFB380"
+  },
+  "metadata": {
+    "title": "",
+    "description": "",
+    "openGraph": {
+      "siteName": "",
+      "image": {},
+      "title": "",
+      "description": ""
+    }
+  }
+}

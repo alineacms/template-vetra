@@ -1,0 +1,32 @@
+{
+  "_id": "2zfxsx6nJnlynXzXb3KBdvrXDu6",
+  "_type": "Author",
+  "_index": "a2",
+  "title": "Marcus Johnson",
+  "avatar": {
+    "_id": "2zfxxMN6qouXAI2jz5Vjq7a7yLO",
+    "_type": "image",
+    "_entry": "2zfxxLGmmpAbWEy3a3HcKMxLwj4"
+  },
+  "bio": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Marcus is a technology strategist and futurist who writes about emerging trends and their impact on society. He has a background in software engineering and product management."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "",
+    "description": "",
+    "openGraph": {
+      "siteName": "",
+      "image": {},
+      "title": "",
+      "description": ""
+    }
+  }
+}

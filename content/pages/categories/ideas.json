@@ -1,0 +1,21 @@
+{
+  "_id": "2zfydrukjWsMSVgvXxJS74hfem4",
+  "_type": "Category",
+  "_index": "a3",
+  "title": "Ideas",
+  "description": "Big thoughts, creative concepts, and innovative perspectives that challenge conventional thinking.",
+  "theme": {
+    "colorLight": "#F39C12",
+    "colorDark": "#F7DC6F"
+  },
+  "metadata": {
+    "title": "",
+    "description": "",
+    "openGraph": {
+      "siteName": "",
+      "image": {},
+      "title": "",
+      "description": ""
+    }
+  }
+}
