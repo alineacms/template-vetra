@@ -16,7 +16,7 @@ Vetra is a Blog template built with Next.js, Tailwind CSS & Alinea CMS.
 
 #### Preview
 
-<img width="1175" height="1124" alt="image" src="https://github.com/user-attachments/assets/b02b54b1-5697-4ce9-accb-004b212fed9c" />
+<img width="1175" height="1124" alt="image" src="https://github.com/user-attachments/assets/8bcffc58-1f31-4aaf-8163-24953ceca85e" />
 
 
 ## Getting Started
