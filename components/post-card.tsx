@@ -33,7 +33,7 @@ interface PostCardProps {
 export function PostCard({post, featured = false}: PostCardProps) {
   const {url, date, image, title, category, author} = post
   return (
-    <article className="group">
+    <article className="group flex flex-col">
       {image && (
         <Link href={url}>
           <div
@@ -51,6 +51,9 @@ export function PostCard({post, featured = false}: PostCardProps) {
                   ? '(max-width: 768px) 100vw, 66vw'
                   : '(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw'
               }
+              style={{
+                objectPosition: `${image.focus.x * 100}% ${image.focus.y * 100}%`
+              }}
             />
           </div>
         </Link>

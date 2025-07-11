@@ -122,6 +122,9 @@ export default async function BlogPostPage({params}: BlogPostPageProps) {
             className="object-cover"
             sizes="(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 1200px"
             priority
+            style={{
+              objectPosition: `${post.image.focus.x * 100}% ${post.image.focus.y * 100}%`
+            }}
           />
         </div>
       )}
