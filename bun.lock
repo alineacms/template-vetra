@@ -7,7 +7,7 @@
         "@types/node": "^20.6.2",
         "@types/react": "18.2.22",
         "@types/react-dom": "18.2.7",
-        "alinea": "https://pkg.pr.new/alineacms/alinea@a937360",
+        "alinea": "^1.4.3",
         "autoprefixer": "10.4.15",
         "lucide-react": "^0.446.0",
         "next": "^15.3.5",
@@ -195,7 +195,7 @@
 
     "@types/scheduler": ["@types/scheduler@0.26.0", "", {}, "sha512-WFHp9YUJQ6CKshqoC37iOlHnQSmxNc795UhB26CyBBttrN9svdIrUjl/NjnNmfcwtncN0h/0PPAFWv9ovP8mLA=="],
 
-    "alinea": ["alinea@https://pkg.pr.new/alineacms/alinea@a937360", { "dependencies": { "@alinea/iso": "^0.3.3", "esbuild": "^0.25.4", "next": "^15.3.5" }, "peerDependencies": { "react": "*", "react-dom": "*" }, "bin": "./dist/cli.js" }],
+    "alinea": ["alinea@1.4.3", "", { "dependencies": { "@alinea/iso": "^0.3.3", "esbuild": "^0.25.4" }, "peerDependencies": { "react": "*", "react-dom": "*" }, "bin": { "alinea": "dist/cli.js" } }, "sha512-7DfykikciJ+9TXabDV083QNXPGfhoyGCBk9bFzw8NsJqUeFb9GVMm1GG0z4MV8rprtg4FK/l9JZMT7pcJmMq7w=="],
 
     "ansi-regex": ["ansi-regex@6.1.0", "", {}, "sha512-7HSX4QQb4CspciLpVFwyRe79O3xsIZDDLER21kERQ71oaPodF8jL725AgJMFAYbooIqolJoRLuM81SpeUkpkvA=="],
 
