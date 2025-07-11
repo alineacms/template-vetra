@@ -8,7 +8,7 @@ export const cms = createCMS({
 
   // Define the content structure of your CMS
   workspaces: {
-    main: Config.workspace('Example', {
+    main: Config.workspace('Vetra', {
       source: 'content',
       mediaDir: 'public',
       roots: {

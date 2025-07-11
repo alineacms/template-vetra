@@ -1,5 +1,5 @@
 import {cms} from '@/cms'
-import {BlogPost} from '@/cms/BlogPost'
+import {BlogPost} from '@/cms/schema/BlogPost'
 
 export {default} from '../../page'
 
