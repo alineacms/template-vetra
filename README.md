@@ -1,3 +1,5 @@
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Falineacms%2Ftemplate-vetra)
+
 # Vetra Blog template
 
 Vetra is a Blog template built with Next.js, Tailwind CSS & Alinea CMS.
