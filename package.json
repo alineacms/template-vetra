@@ -15,7 +15,7 @@
     "alinea": "^1.4.3",
     "autoprefixer": "10.4.15",
     "lucide-react": "^0.446.0",
-    "next": "^15.3.5",
+    "next": "^15.3.8",
     "next-themes": "^0.3.0",
     "postcss": "8.4.30",
     "react": "18.2.0",
