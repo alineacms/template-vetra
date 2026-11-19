@@ -14,7 +14,20 @@
       "content": [
         {
           "_type": "text",
-          "text": "Alex is a design systems architect with over 8 years of experience building scalable design solutions. He loves exploring the intersection of design and technology."
+          "text": "Alex is a design systems architect with over 8 years of experience building scalable design solutions. He loves "
+        },
+        {
+          "_type": "text",
+          "text": "exploring",
+          "marks": [
+            {
+              "_type": "bold"
+            }
+          ]
+        },
+        {
+          "_type": "text",
+          "text": " the intersection of design and technology."
         }
       ]
     }
